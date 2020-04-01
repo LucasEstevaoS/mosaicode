@@ -7,23 +7,22 @@ Mosaicode
 
 ### Installing Mosaicode
 
-Install dependencies: 
+Install dependencies:
 
 ```
-sudo apt-get install libopencv-dev python-opencv
-sudo apt-get install python-gtk2
+apt-get install python-pip
+pip install PyGTK
 sudo apt-get install python-gnome2
-sudo apt-get install python-pip
 sudo apt-get install libgoocanvas-2.0-common
 sudo apt-get install libgtksourceview-3.0-common
 sudo apt-get install libgtksourceview-3.0-1
 sudo apt-get install gir1.2-goocanvas-2.0
 sudo apt-get install gir1.2-gtksource-3.0
-sudo apt-get install python-lxml
+pip install lxml
 sudo apt-get install python-gobject
 sudo apt-get install python-gi
-sudo apt-get install python-setuptools
-sudo pip install BeautifulSoup4
+pip install setuptools
+pip install BeautifulSoup4
 ```
 
 Install Mosaicomponents: [https://github.com/Mosaicode/mosaicomponents](https://github.com/Mosaicode/mosaicomponents)

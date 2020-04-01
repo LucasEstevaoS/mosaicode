@@ -1,5 +1,5 @@
 mosaicode package
-==============
+=================
 
 Subpackages
 -----------
@@ -8,15 +8,16 @@ Subpackages
 
     mosaicode.GUI
     mosaicode.control
+    mosaicode.extensions
     mosaicode.model
-    mosaicode.blockmodels
+    mosaicode.persistence
     mosaicode.utils
 
 Submodules
 ----------
 
 mosaicode.system module
---------------------
+-----------------------
 
 .. automodule:: mosaicode.system
     :members:

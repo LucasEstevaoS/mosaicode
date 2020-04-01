@@ -3,22 +3,36 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-##################################
-Welcome to mosaicode's documentation!
-##################################
+######################################
+Welcome to Mosaicode documentation!
+######################################
 
-Contents:
+This page contains all Mosaicode guidelines.
+
+Our focus is to provide a complete, organized and easy documentation. Therefore,
+we need your feedback to improve it, feel free to help us!
+
+For more information about this project, please visit
+`Mosaicode project website`_.
+
+
+*******
+Content
+*******
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   user-documentation/getting-started/index
-   user-documentation/building-blockmodels/index
+   user-guide/index
+   developer-guide/index
 
 
-##################
+******************
 Indices and tables
-##################
+******************
+
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+.. _Mosaicode project website: https://alice.dcomp.ufsj.edu.br/projects/mosaicode/
